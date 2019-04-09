@@ -1,0 +1,14 @@
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\RabitMQRecevied.exe.config
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\RabitMQRecevied.exe
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\RabitMQRecevied.pdb
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\RabbitMQ.Client.dll
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\bin\Debug\RabbitMQ.Client.xml
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\obj\Debug\RabitMQRecevied.csproj.CoreCompileInputs.cache
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\obj\Debug\RabitMQRecevied.csproj.CopyComplete
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\obj\Debug\RabitMQRecevied.exe
+C:\Users\EmreTure\source\repos\RabitMQProject\RabitMQRecevied\obj\Debug\RabitMQRecevied.pdb
